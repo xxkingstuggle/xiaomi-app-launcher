@@ -1,7 +1,9 @@
 .gradle/
+.kotlin/
 .idea/
 .agent-work/
 local.properties
 **/build/
+dist/
 *.iml
 .DS_Store
